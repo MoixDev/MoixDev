@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MoixDev
-- 👀 I’m interested in todo
-- 🌱 I’m currently learning gdscript, godot, 2d graphics
-- 💞️ I’m looking to collaborate on nada
-- 📫 How to reach me ?
+- 👀 I’m interested in everything!
+- 🌱 I’m currently learning Games!
+- 💞️ I’m looking to collaborate on anythink!
+- 📫 How to reach me? Neverthink
 
 <!---
 MoixDev/MoixDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
