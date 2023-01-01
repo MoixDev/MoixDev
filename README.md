@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MoixDev
 - 👀 I’m interested in everything!
-- 🌱 I’m currently learning Games!
+- 🌱 I’m currently learning TODO!
 - 💞️ I’m looking to collaborate on anythink!
 - 📫 How to reach me? Neverthink
 
