@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MoixDev
-- 👀 I’m interested in everything!
-- 🌱 I’m currently learning TODO!
-- 💞️ I’m looking to collaborate on anythink!
+- 👀 I’m interested in Everything!
+- 🌱 I’m learning TODO!
+- 💞️ I’m looking to collaborate on Anythink!
 - 📫 How to reach me? Neverthink
 
 <!---
